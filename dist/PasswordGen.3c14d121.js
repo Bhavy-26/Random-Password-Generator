@@ -708,11 +708,19 @@ function PasswordGenerator() {
         children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
             className: "first",
             children: [
+                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h2", {
+                    className: "title",
+                    children: "Random Password Generator"
+                }, void 0, false, {
+                    fileName: "script.js",
+                    lineNumber: 46,
+                    columnNumber: 22
+                }, this),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
                     children: Password
                 }, void 0, false, {
                     fileName: "script.js",
-                    lineNumber: 46,
+                    lineNumber: 48,
                     columnNumber: 22
                 }, this),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -726,7 +734,7 @@ function PasswordGenerator() {
                             onChange: (e)=>setlength(e.target.value)
                         }, void 0, false, {
                             fileName: "script.js",
-                            lineNumber: 50,
+                            lineNumber: 52,
                             columnNumber: 33
                         }, this),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("label", {
@@ -737,7 +745,7 @@ function PasswordGenerator() {
                             ]
                         }, void 0, true, {
                             fileName: "script.js",
-                            lineNumber: 51,
+                            lineNumber: 53,
                             columnNumber: 33
                         }, this),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("input", {
@@ -746,14 +754,14 @@ function PasswordGenerator() {
                             onChange: ()=>setnumchanged(!numchanged)
                         }, void 0, false, {
                             fileName: "script.js",
-                            lineNumber: 53,
+                            lineNumber: 55,
                             columnNumber: 33
                         }, this),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("label", {
                             children: "Number"
                         }, void 0, false, {
                             fileName: "script.js",
-                            lineNumber: 54,
+                            lineNumber: 56,
                             columnNumber: 33
                         }, this),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("input", {
@@ -762,20 +770,20 @@ function PasswordGenerator() {
                             onChange: ()=>setcharchanged(!charchanged)
                         }, void 0, false, {
                             fileName: "script.js",
-                            lineNumber: 56,
+                            lineNumber: 58,
                             columnNumber: 33
                         }, this),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("label", {
                             children: "Character"
                         }, void 0, false, {
                             fileName: "script.js",
-                            lineNumber: 57,
+                            lineNumber: 59,
                             columnNumber: 33
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "script.js",
-                    lineNumber: 48,
+                    lineNumber: 50,
                     columnNumber: 29
                 }, this)
             ]
@@ -790,7 +798,7 @@ _s(PasswordGenerator, "mW9CZ6vLazfGscBP7vq7ak+vzsI=");
 _c = PasswordGenerator;
 (0, _clientDefault.default).createRoot(document.getElementById('root')).render(/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(PasswordGenerator, {}, void 0, false, {
     fileName: "script.js",
-    lineNumber: 72,
+    lineNumber: 74,
     columnNumber: 61
 }, undefined));
 var _c;
