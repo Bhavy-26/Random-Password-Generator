@@ -714,14 +714,14 @@ function PasswordGenerator() {
                 }, void 0, false, {
                     fileName: "script.js",
                     lineNumber: 46,
-                    columnNumber: 22
+                    columnNumber: 25
                 }, this),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
                     children: Password
                 }, void 0, false, {
                     fileName: "script.js",
                     lineNumber: 48,
-                    columnNumber: 22
+                    columnNumber: 26
                 }, this),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                     className: "second",

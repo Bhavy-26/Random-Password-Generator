@@ -43,9 +43,9 @@ function PasswordGenerator(){
         
             <div className="first">
                 
-                     <h2 className="title">Random Password Generator</h2>
+                        <h2 className="title">Random Password Generator</h2>
 
-                     <h1>{Password}</h1>
+                         <h1>{Password}</h1>
 
                             <div className="second">
 
